@@ -46,4 +46,4 @@ An Android app to help parents manage their children’s sleep time.
 
 ## ✨ GitHub Stats
 
-![Amer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMIR1606&show_icons=true&theme=radical)
+![Amer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMIR240&show_icons=true&theme=radical)
